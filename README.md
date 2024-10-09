@@ -39,6 +39,6 @@
     ```bash
     python manage.py createsuperuser
     ```
-
+## Screenshot
 ![Project Setup Screenshot](image.png)
 
